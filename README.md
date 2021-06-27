@@ -1,1 +1,1 @@
-# qa_guru_diploma
+# Auto-test for triestephotodays challenge web-site
